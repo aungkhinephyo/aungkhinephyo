@@ -1,6 +1,5 @@
-<!-- ![Stay Positive](https://github.com/aungkhinephyo/aungkhinephyo/blob/main/coding.jpg[height=200px]) -->
+![Stay Positive](https://github.com/aungkhinephyo/aungkhinephyo/blob/main/coding.jpg[height=200px])
 <!-- <img src="https://your-image-url.type](https://github.com/aungkhinephyo/aungkhinephyo/blob/main/coding.jpg" height="200" /> -->
-[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png|width=100px]]
 <h1 align="center">Hi 👋, I'm Aung Khine Phyo</h1>
 <h3 align="center">Web Developer</h3>
 
