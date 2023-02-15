@@ -1,5 +1,5 @@
 <!-- ![Stay Positive](https://github.com/aungkhinephyo/aungkhinephyo/blob/main/coding.jpg[height=200px]) -->
-<img src="coding.jpg" height="200px" >
+<img src="coding.jpg" width="100%" height="250px" >
 <h1 align="center">Hi 👋, I'm Aung Khine Phyo</h1>
 <h3 align="center">Web Developer</h3>
 
